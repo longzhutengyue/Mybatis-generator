@@ -54,7 +54,7 @@
 
         <!-- 配置表信息 -->
         <!--tableName是表名，domainObjectName是生成的实体类名-->
-        <table tableName="t_role" domainObjectName="Role"
+        <table tableName="EMP" domainObjectName="Emp"
             enableCountByExample="false" enableDeleteByExample="false"
             enableUpdateByExample="false" enableSelectByExample="false">
         </table>
